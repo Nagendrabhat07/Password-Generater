@@ -53,7 +53,7 @@ h1 {
     border-color: #667eea;
     transform: translateY(-2px);
 }
-
+/* button */
 .generate-btn {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
